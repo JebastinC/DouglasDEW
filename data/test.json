@@ -1,9 +1,37 @@
 [
     {
         "name": "Testcase 001",
+        "Navigation_Link": "PARFUM",
         "data": {
             "Marke": "1916",
             "Für Wen": "Unisex"
+        }
+    },
+    
+    {
+        "name": "Testcase 002",
+        "Navigation_Link": "PARFUM",
+        "data": {
+            "Produktart": "After Shave",
+            "Marke": "4711",
+            "Für Wen": "Männlich"
+        }
+    },
+    
+    {
+        "name": "Testcase 003",
+        "Navigation_Link": "PARFUM",
+        "data": {
+            "Für Wen": "Männlich"
+        }
+    },
+    
+    {
+        "name": "Testcase 004",
+        "Navigation_Link": "HAARE",
+        "data": {
+            "Marke": "4711",
+            "Für Wen": "Männlich"
         }
     }
 ]
